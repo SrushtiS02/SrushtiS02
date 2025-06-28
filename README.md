@@ -1,4 +1,4 @@
-# 🌊 Hi, I’m Srushti Surpur
+# 👋 Hi, I’m Srushti Surpur
 
 > “Dreaming in code, rooted in impact.”
 
