@@ -7,9 +7,6 @@
 🧠 Passionate about Ethical AI, Vision-Language Models, and Healthcare Innovation  
 
 ---
-
-![Banner](https://user-images.githubusercontent.com/00000000/your-banner-image.png) <!-- Replace with your own Canva or custom banner -->
-
 ## 🚀 Projects I’m Proud Of
 
 🔹 **🌊 PhaseFormer + CLIP for Underwater Image Enhancement**  
